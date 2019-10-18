@@ -1,0 +1,17 @@
+.board {
+    width: 800px;
+    margin: auto
+}
+
+.info {
+    width: 800px;
+    margin: auto;
+}
+
+.move-history {
+    max-height: 300px;
+    overflow-y: scroll;
+}
+body {
+cursor: url(images/cursor-1.png), url(images/cursor-2.cur), default;
+}
