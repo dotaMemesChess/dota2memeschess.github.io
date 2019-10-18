@@ -1,3 +1,3 @@
-# dota2memeschess.github.io
+# dotaMemesChess.github.io
 fdfd
 
